@@ -1,0 +1,9 @@
+<mvc:View controllerName="invoices2.invoice2.controller.Invoices_2"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content> 
+        <Text id ="txt001" text="Sporting CP"></Text>
+        </content>
+    </Page>
+</mvc:View>
